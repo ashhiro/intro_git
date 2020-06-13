@@ -1,0 +1,4 @@
+gitの練習をしてきます。
+初めての変更。
+git add
+git commit
