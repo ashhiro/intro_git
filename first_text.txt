@@ -5,3 +5,4 @@ git commit
 第3回の変更😊
 git status
 文字フォント変更
+git diff
