@@ -2,3 +2,4 @@ gitの練習をしてきます。
 初めての変更。
 git add
 git commit
+第3回の変更😊
