@@ -3,3 +3,4 @@ gitの練習をしてきます。
 git add
 git commit
 第3回の変更😊
+git status
